@@ -39,5 +39,5 @@ Users should be able to:
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sanjayvjacob)
-- Twitter - [@yourusername](https://www.twitter.com/sanjayvjacob)
+- Frontend Mentor - [@sanjayvjacob](https://www.frontendmentor.io/profile/sanjayvjacob)
+- Twitter - [@sanjayvjacob](https://www.twitter.com/sanjayvjacob)
