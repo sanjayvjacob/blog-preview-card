@@ -1,8 +1,3 @@
-/* Screen width upto 1140px */
-@media (max-width: 1140px) {
-  
-}
-
 /* Screen width upto 375px */
 @media (max-width: 375px) {
   .item {
